@@ -141,7 +141,7 @@ export default function LandingPage() {
       <ContactText
       useInvertedBackground={true}
       background={{ variant: "radial-gradient" }}
-      text="Secure Your Experience. Limited availability each evening ensures an intimate, dedicated environment for every guest."
+      text="Secure Your Experience. Limited availability each evening ensures an intimate, dedicated environment for every guest. Reach us on WhatsApp at +441685884011."
       buttons={[{ text: "Book Your Table", href: "#" }]}
     />
   </div>
